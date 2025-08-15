@@ -66,7 +66,7 @@ Hybrid LSTM + ML model for detecting anomalies in S&P 500 stock data, developed 
 ---
 
 ### [Spatial x Time Series Forecasting](#)  
-[![GitHub Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)]((https://github.com/hassaanuh/TS_Forecasting_Project))  
+[![GitHub Repo](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/hassaanuh/TS_Forecasting_Project)
 SARIMAX + Prophet ML models to analyze COVID-19’s impact on Chicago rent prices.
 
 ---
